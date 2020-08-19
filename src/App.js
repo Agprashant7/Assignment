@@ -8,9 +8,7 @@ import Admission from './admission'
 
 class App extends React.Component{
  
-    state={
-      studentdata:studentdata
-    }
+    
   
 
 
