@@ -1,0 +1,33 @@
+
+.container{
+    background-color:#fff;
+    height: 500px;
+    width: 75%;
+    margin:auto;
+    box-shadow: 4px 4px 4px black;
+    position: relative;
+}
+.tab{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 90%;
+    position: relative;
+}
+td{
+    border :1px solid black;
+}
+button{
+    margin-top: 50px;
+    width: 40%;
+    height: 40px;
+    background-color: whitesmoke;
+    border:none
+}
+.subHeading{
+    font-style: italic;
+    font-weight: bold;
+}
+.heading{
+    font-style:bold;
+    font-weight:bolder
+}
